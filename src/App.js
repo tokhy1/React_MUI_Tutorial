@@ -4,7 +4,6 @@ import Rightbar from "./components/Rightbar";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 import Add from "./components/Add";
-import { theme } from "./theme"
 import { useState } from "react";
 
 
