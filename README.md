@@ -20,7 +20,7 @@ This repository contains the source code for a modern social media app homepage 
 
 To get a copy of the project up and running on your local machine for development and testing purposes, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/tokhy1/social-media-app-homepage.git`
+1. Clone the repository: `git clone https://github.com/tokhy1/React_MUI_Tutorial.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
@@ -28,13 +28,12 @@ To get a copy of the project up and running on your local machine for developmen
 ## Contributing:
 
 We welcome contributions from the community to further enhance and improve the Laravel Competitions Management System. Whether it's bug fixes, feature enhancements, or feedback, your input is invaluable.
-1. Fork it (<https://github.com/tokhy1/Laravel_Competitions_Management_System.git/fork>)
+1. Fork it (<https://github.com/tokhy1/React_MUI_Tutorial.git/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
    
-
 
 ## Contact 
 - Email: <mohameashraf24@gmail.com>
