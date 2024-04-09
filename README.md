@@ -2,6 +2,9 @@
 
 This repository contains the source code for a modern social media app homepage built using React.js and Material-UI (MUI). It serves as a starting point for creating a social media application's frontend interface, showcasing various components commonly found in such platforms.
 
+## Overview
+[Watch the project oveview](https://github.com/tokhy1/React_MUI_Tutorial/assets/140895791/ad624a02-cb04-47dd-97cd-8929c75edb2b)
+
 ## Features
 
 - **Sidebar Navigation**: Intuitive sidebar navigation for easy access to different sections of the application.
