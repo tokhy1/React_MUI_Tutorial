@@ -30,7 +30,7 @@ To get a copy of the project up and running on your local machine for developmen
 
 ## Contributing:
 
-We welcome contributions from the community to further enhance and improve the Laravel Competitions Management System. Whether it's bug fixes, feature enhancements, or feedback, your input is invaluable.
+We welcome contributions from the community to further enhance and improve the React MUI Tutorial. Whether it's bug fixes, feature enhancements, or feedback, your input is invaluable.
 1. Fork it (<https://github.com/tokhy1/React_MUI_Tutorial.git/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
